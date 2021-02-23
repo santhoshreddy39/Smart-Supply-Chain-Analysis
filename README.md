@@ -6,7 +6,7 @@ E-commerce is about selling and buying goods over the internet and the movement 
   <img src="https://user-images.githubusercontent.com/37765359/108836208-94930600-75f6-11eb-9570-bc93d6fb0c34.png"/>
 </p>
 <p align="center">
-    // Image source: smart-solidity
+   Image source: smart-solidity
 </p>
                                                                   
 
