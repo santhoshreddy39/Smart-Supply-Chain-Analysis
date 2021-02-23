@@ -5,7 +5,9 @@ E-commerce is about selling and buying goods over the internet and the movement 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37765359/108836208-94930600-75f6-11eb-9570-bc93d6fb0c34.png"/>
 </p>
+
                       ![scm](https://user-images.githubusercontent.com/37765359/108836208-94930600-75f6-11eb-9570-bc93d6fb0c34.png)
+                      
 ### GOAL <br>
 Customer segmentation analysis was performed which helps the company to better understand its customers and target them to increase customer responsiveness and the company's revenue.
 Building a Machine Learning model for detection of fraud transactions, late delivery orders, sales revenue and quantity of products which customer orders.
@@ -13,7 +15,6 @@ The classifier models used for fraud detection and to predict late delivery.
 The regression models used for predicting sales and quantity of the products required. 
 ### DATA SOURCE
 * Dataset link: https://data.mendeley.com/datasets/8gx2fvg2k6/5 
-* Kaggle dataset link:https://www.kaggle.com/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 <br>
 <p>This is the dataset of Supply Chains used by the company DataCo Global which includes a collection of their products sold, finacial details(profit, loss, total sales etc.), Shipping details, and customer details such as sales, demographics, and transaction details. The data spans to 91 MB details of 180,520 customers spanning to 53 columns related to Clothing , Sports,and Electronic Supplies.</p>
 
