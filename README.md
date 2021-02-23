@@ -16,7 +16,6 @@ The regression models used for predicting sales and quantity of the products req
 <br>
 <p>This is the dataset of Supply Chains used by the company DataCo Global which includes a collection of their products sold, finacial details(profit, loss, total sales etc.), Shipping details, and customer details such as sales, demographics, and transaction details. The data spans to 91 MB details of 180,520 customers spanning to 53 columns related to Clothing , Sports,and Electronic Supplies.</p>
 <br>
- 
 
 ### Technologies Used <br>
 
@@ -25,10 +24,10 @@ The regression models used for predicting sales and quantity of the products req
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
-## Bug / Feature Request
+### Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/santhoshreddy39/Flight-Price-Prediction-/issues) here by including your search query and the expected result
 
-## Please do ⭐ the repository, if it helped you in your project execution.
+#### Please do ⭐ the repository, if it helped you in your project execution.
 
   
