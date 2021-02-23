@@ -2,6 +2,9 @@
 
 ### INTRODUCTION
 E-commerce is about selling and buying goods over the internet and the movement of goods between two parties. The dispatch of right quantity products at the right time to the right person is essential and hence efficient supply chain is required. A quick, uninterrupted and secure supply chain is a critical aspect of the e-commerce business. Efficient supply chain management in e-commerce can reduce costs and enhance cash utilization. When a customer purchases a product from an e-commerce website, he/she wants the product in a short time. New e-commerce websites are evolving every day. But, customers prefer only those sites that have an efficient supply chain to deliver the right products at the right time. Now all the comapnies are collecting huge amount of data in real time by using IoT sensors. This data when used correctly, will be very helpful to the company to discover hidden patterns for better decision making in the future. This is the dataset of Supply Chains used by the company DataCo Global which includes a collection of their products sold, financial details(profit, loss, total sales etc.), Shipping details, and customer details such as sales, demographics, and transaction details.<br>
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
                       ![scm](https://user-images.githubusercontent.com/37765359/108836208-94930600-75f6-11eb-9570-bc93d6fb0c34.png)
 ### GOAL <br>
 Customer segmentation analysis was performed which helps the company to better understand its customers and target them to increase customer responsiveness and the company's revenue.
