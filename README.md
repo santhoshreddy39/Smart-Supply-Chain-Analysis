@@ -12,6 +12,7 @@ The regression models used for predicting sales and quantity of the products req
 * Kaggle dataset link:https://www.kaggle.com/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 <br>
 <p>This is the dataset of Supply Chains used by the company DataCo Global which includes a collection of their products sold, finacial details(profit, loss, total sales etc.), Shipping details, and customer details such as sales, demographics, and transaction details. The data spans to 91 MB details of 180,520 customers spanning to 53 columns related to Clothing , Sports,and Electronic Supplies.</p>
+
 ### Technologies Used <br>
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
