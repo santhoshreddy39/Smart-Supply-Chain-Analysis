@@ -16,6 +16,13 @@ The regression models used for predicting sales and quantity of the products req
 <br>
 <p>This is the dataset of Supply Chains used by the company DataCo Global which includes a collection of their products sold, finacial details(profit, loss, total sales etc.), Shipping details, and customer details such as sales, demographics, and transaction details. The data spans to 91 MB details of 180,520 customers spanning to 53 columns related to Clothing , Sports,and Electronic Supplies.</p>
 <br>
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+
 ### Technologies Used <br>
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
