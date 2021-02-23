@@ -5,7 +5,8 @@ E-commerce is about selling and buying goods over the internet and the movement 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37765359/108836208-94930600-75f6-11eb-9570-bc93d6fb0c34.png"/>
 </p>
-image source: smart-solidity                 
+                                          image source: smart-solidity. <br>
+
 ### GOAL <br>
 Customer segmentation analysis was performed which helps the company to better understand its customers and target them to increase customer responsiveness and the company's revenue.
 Building a Machine Learning model for detection of fraud transactions, late delivery orders, sales revenue and quantity of products which customer orders.
